@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546924319435",
+    "firebase_url": "https://messengeras-13217.firebaseio.com",
+    "project_id": "messengeras-13217",
+    "storage_bucket": "messengeras-13217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546924319435:android:2f0caa8d8df7db284e014e",
+        "android_client_info": {
+          "package_name": "com.asource.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546924319435-985r1qf6auhnd86339v5r3ef46gnpctn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSTG3RHYflrUQNayi8KcIo9bPpCUnwrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546924319435-985r1qf6auhnd86339v5r3ef46gnpctn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
